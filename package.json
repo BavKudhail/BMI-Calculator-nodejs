@@ -1,0 +1,22 @@
+{
+  "name": "bmi-calculator-nodejs",
+  "version": "1.0.0",
+  "description": "BMI calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BavKudhail/BMI-Calculator-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BavKudhail/BMI-Calculator-nodejs/issues"
+  },
+  "homepage": "https://github.com/BavKudhail/BMI-Calculator-nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
